@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<settings name="Xel">
+       <param id="username" name="Del.icio.us username" type="string">
+               <value><![CDATA[changeMe]]></value>
+       </param>
+	 <param id="password" name="Del.icio.us password" type="string">
+               <value><![CDATA[changeMe]]></value>
+       </param>
+</settings>
